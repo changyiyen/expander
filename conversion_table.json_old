@@ -1,0 +1,15 @@
+{
+	"心臟科加護病房": {
+		"IABP": "intra-aortic balloon pump",
+		"Vf": "ventricular fibrillation",
+		"VT": "ventricular tachycardia"
+	},
+	"胸腔內科": {
+		"COPD": "chronic obstructive pulmonary disease",
+		"AE": "acute exacerbation"
+	},
+	"腎臟科": {
+		"CKD": "chronic kidney disease",
+		"DM": "diabetes mellitus"
+	}
+}
